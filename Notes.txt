@@ -1,0 +1,21 @@
+1. Install python
+2. Install Flask		"pip install Flask" in GitBash
+3. Install GIT Bash		https://git-scm.com/download/win
+4. Create app in Notepad++
+5. Open GIT Bash from the folder containing application
+6. Run using GIT Bash		Python "hello.py"
+7. Head over to http://127.0.0.1:5000/
+"Hello World!" will be displayed
+8. To stop the server hit ctrl+C (__name__ = __main__ runs the server)
+
+git init
+git add .
+git commit -m 'message'
+git *create remote
+git push -u origin master
+
+e.g. git remote add origin https://github/charup/Python_Flask.git
+
+Install Resource, Api using 
+	pip install Resource (Json Form)
+	pip install Api
