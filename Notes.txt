@@ -4,7 +4,7 @@
 4. Create app in Notepad++
 5. Open GIT Bash from the folder containing application
 6. Run using GIT Bash		Python "hello.py"
-7. Head over to http://127.0.0.1:5000/
+7. Head over to https://127.0.0.1:5000/
 "Hello World!" will be displayed
 8. To stop the server hit ctrl+C (__name__ = __main__ runs the server)
 
