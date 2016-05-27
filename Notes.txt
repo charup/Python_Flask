@@ -16,6 +16,7 @@ git push -u origin master
 
 e.g. git remote add origin https://github/charup/Python_Flask.git
 
-Install Resource, Api using 
+Install flask_restful, Resource, Api using 
+	pip install flask_restful
 	pip install Resource (Json Form)
 	pip install Api
