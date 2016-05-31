@@ -11,6 +11,6 @@ class CreateUser(Resource):
 api.add_resource(CreateUser, '/CreateUser')
 
 if __name__ == '__main__':
-    #app.run(debug=True)
-	app.run(host = '0.0.0.0') # tell OS to listen to all public IP's
+    app.run(debug=True)
+	#app.run(host = '0.0.0.0') # tell OS to listen to all public IP's
 

@@ -20,3 +20,6 @@ Install flask_restful, sqlalchemy, Resource, Api using
 	pip install flask_restful
 	pip install Resource (Json Form)
 	pip install Api
+
+mkdir templates
+touch templates/index.html
